@@ -1,0 +1,53 @@
+body {
+  background-color: #e5e5e5;
+}
+.home {
+  position: absolute;
+  width: 79px;
+  left: 417px;
+  top: 81px;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+.about {
+  position: absolute;
+  width: 87px;
+  left: 593px;
+  top: 81px;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+.work {
+  position: absolute;
+  width: 80px;
+  left: 776px;
+  top: 81px;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+.contact {
+  position: absolute;
+  width: 116px;
+  left: 938px;
+  top: 81px;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+.blue-vector1 {
+  position: absolute;
+  width: 1733.9px;
+  height: 664px;
+  left: -147px;
+  top: 830px;
+}
+.blue-vector2 {
+  position: absolute;
+  width: 2326px;
+  height: 720px;
+  left: -147px;
+  top: 2776px;
+}
